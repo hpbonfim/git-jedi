@@ -1,4 +1,4 @@
-# Git Guy - Guia de Comandos GIT
+# Git Jedi - Guia de Poderes GIT
 
 <h1 align="center">
 	<br>
