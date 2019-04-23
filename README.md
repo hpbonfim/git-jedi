@@ -1,4 +1,4 @@
-# Git Guy - Guía de Comandos GIT
+# Git Guy - Guia de Comandos GIT
 
 <h1 align="center">
 	<br>
