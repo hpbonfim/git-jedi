@@ -12,10 +12,10 @@
 > Git é um software de controle de versão projetado por _Linus Torvalds_, pensando na eficiência e confiabilidade de manter versões de aplicativos quando eles têm um grande número de arquivos de código.
 
 ## Vantagens:
-	- ✔️ Melhor trabalho em equipe <br>
-	- ✔️ Controle total sobre as alterações em projetos <br>
-	- ✔️ Voltar às versões anteriores <br>
-	- ✔️ Locais & Remotes Repositórios <br>
+	- ✔️ Melhor trabalho em equipe
+	- ✔️ Controle total sobre as alterações em projetos
+	- ✔️ Voltar às versões anteriores
+	- ✔️ Locais & Remotes Repositórios
 	- ▪️▪️▪️ E muito mais
 
 > **Download** <br>
